@@ -1,6 +1,6 @@
 https://download.f-secure.com/corpro/cs/current/fscs-13.11.110-v2.jar
 https://download.f-secure.com/corpro/cs/current/fscspr-13.11.110-v2.jar
-https://download.f-secure.com/corpro/csmac/current/fscsmac-13.00-rtm-signed.jar
+https://download.f-secure.com/corpro/csmac/current/fscsmac-13.10-rtm.jar
 https://download.f-secure.com/corpro/ess/current/fsess1200-hf01-v2-signed.fsfix
 https://download.f-secure.com/corpro/ess/current/fsess1200-hf01-v2-signed.jar
 https://download.f-secure.com/corpro/ess/current/fsess-12.12.104.exe
@@ -9,6 +9,8 @@ https://download.f-secure.com/corpro/ess/current/fsesspr1200-hf01-v2-signed.fsfi
 https://download.f-secure.com/corpro/ess/current/fsesspr1200-hf01-v2-signed.jar
 https://download.f-secure.com/corpro/ess/current/fsesspr-12.12.104.exe
 https://download.f-secure.com/corpro/ess/current/fsesspr-12.12.104.jar
+https://download.f-secure.com/corpro/ess/current/fsma1010-hf03-signed.fsfix
+https://download.f-secure.com/corpro/ess/current/fsma1010-hf03-signed.jar
 https://download.f-secure.com/corpro/ess/current/fswebui170-hf01-signed.fsfix
 https://download.f-secure.com/corpro/ess/current/fswebui170-hf01-signed.jar
 https://download.f-secure.com/corpro/igk/current/fsigk-5.00-hf3.tar.gz
@@ -39,6 +41,8 @@ https://download.f-secure.com/corpro/srs/current/fssrs_va-12.20.5-hyper-v.vhd.zi
 https://download.f-secure.com/corpro/srs/current/fssrs_va-12.20.5-kvm.zip
 https://download.f-secure.com/corpro/srs/current/fssrs_va-12.20.5-vmware.ova
 https://download.f-secure.com/corpro/srs/current/fssrs_va-12.20.5.xva
+https://download.f-secure.com/corpro/ss/current/fsma1010-hf03-signed.fsfix
+https://download.f-secure.com/corpro/ss/current/fsma1010-hf03-signed.jar
 https://download.f-secure.com/corpro/ss/current/fsss-12.12.104.exe
 https://download.f-secure.com/corpro/ss/current/fsss-12.12.104.jar
 https://download.f-secure.com/corpro/ss/current/fssspr-12.12.104.exe
